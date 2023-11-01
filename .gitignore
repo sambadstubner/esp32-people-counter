@@ -1,0 +1,5 @@
+main/certs
+sdkconfig
+sdkconfig.old
+.vscode
+build
